@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 024b549453928924e9cf4b0ddc771e05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5821900364209005501
+    second: maviTopAnimated_0
+  - first:
+      213: -4515189743144522305
+    second: maviTopAnimated_1
+  - first:
+      213: -8042379321079985753
+    second: maviTopAnimated_2
+  - first:
+      213: 8727856392985019799
+    second: maviTopAnimated_3
+  - first:
+      213: -8944951558675616840
+    second: maviTopAnimated_4
+  - first:
+      213: 7391264201678269123
+    second: maviTopAnimated_5
+  - first:
+      213: -6973769420986132653
+    second: maviTopAnimated_6
+  - first:
+      213: -172494267325361019
+    second: maviTopAnimated_7
+  - first:
+      213: 5908564229544377258
+    second: maviTopAnimated_8
+  - first:
+      213: 6789305890943832858
+    second: maviTopAnimated_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maviTopAnimated_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 912
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cda99e674743fa0800000000000000
+      internalID: -5821900364209005501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 908
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2262e9d2d651c0800000000000000
+      internalID: -4515189743144522305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 892
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9841a2e9ab36090800000000000000
+      internalID: -8042379321079985753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 624
+        width: 76
+        height: 116
+      alignment: 9
+      pivot: {x: 0.50920355, y: 0.6447049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7958e72b5239f1970800000000000000
+      internalID: 8727856392985019799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 616
+        width: 68
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.70399374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb201423f52dd380800000000000000
+      internalID: -8944951558675616840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 52
+        height: 112
+      alignment: 9
+      pivot: {x: 0.51345, y: 0.8309675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca281e71ab039660800000000000000
+      internalID: 7391264201678269123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 348
+        width: 36
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5129386, y: 0.8898458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d3a409a1383f90800000000000000
+      internalID: -6973769420986132653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 320
+        width: 24
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46889877, y: 1.1919937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d746b06d2b9df0800000000000000
+      internalID: -172494267325361019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 317
+        width: 16
+        height: 72
+      alignment: 9
+      pivot: {x: 0.26674652, y: 1.6299968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab7292acdf6ff150800000000000000
+      internalID: 5908564229544377258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maviTopAnimated_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 12
+        height: 28
+      alignment: 9
+      pivot: {x: 0.42996153, y: 3.531809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139c2d8cb5783e50800000000000000
+      internalID: 6789305890943832858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

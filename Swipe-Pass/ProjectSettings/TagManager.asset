@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - box
+  - killer
+  - kare
+  - "\xFCcgen"
+  - YuvarlakK
+  - YuvarlakM
+  - YuvarlakY
+  - Bomba
+  - Kalp
+  - Box
+  - KutuK
+  - KutuM
+  - KutuY
+  - MaviK
+  - Freeze
+  - TYuvarlakM
+  - TYuvarlakY
+  - TYuvarlakK
+  - rainbow
+  - TkutuM
+  - BlueBallMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: toplar
+    uniqueID: 906186603
+    locked: 0
